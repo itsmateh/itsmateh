@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateo A. Campagna</h1>
+<h1 align="center"> I'm Mateo A. Campagna 🤖</h1>
 <h3 align="center">A passionate Machine Learning Engineer & Data Scientist</h3>
 
 - 🌱 I’m currently learning **Computer Vision, Natural Language Processing & Maths.**
