@@ -1,5 +1,5 @@
 <h1 align="center">Profile: Mateo A. Campagna</h1>
-# 📊 Key interes: <br>
+# 💫 About Me: <br>
 Machine Learning / Deep Learning<br>DSA / Competitive programming<br>Graphics Simulation<br>Theoretical computer science
 
 
