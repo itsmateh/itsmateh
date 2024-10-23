@@ -1,5 +1,5 @@
-<h1 align="center">Profile: Mateo A. Campagna</h1>
-# 💫 About Me: <br>
+<h1 align="center"> Mateo A. Campagna</h1>
+# 👋 Hi, I'm Magdeline!
 Machine Learning / Deep Learning<br>DSA / Competitive programming<br>Graphics Simulation<br>Theoretical computer science
 
 
