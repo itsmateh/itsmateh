@@ -1,6 +1,8 @@
 <h1 align="center">Profile: Mateo A. Campagna</h1>
 <h3 align="center">Key interests</h3>
 
+- Machine Learning / Deep Learning [asd](cvsd)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/itsmateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="itsmateh" height="30" width="40" /></a>
