@@ -8,7 +8,7 @@
 
 
 ## 🌐 Contact with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/https://www.linkedin.com/feed/?trk=404_page](https://www.linkedin.com/in/mateocampagna/)](https://www.linkedin.com/in/mateocampagna/)) [matecamp4@gmail.com](mailto:matecamp4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateocampagna/) [matecamp4@gmail.com](mailto:matecamp4@gmail.com)
 
 
 # 💻 Tech stack:
