@@ -8,7 +8,7 @@
 
 
 ## 🌐 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/?trk=404_page) 📧 [matecamp4@gmail.com](mailto:matecamp4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/?trk=404_page) [matecamp4@gmail.com](mailto:matecamp4@gmail.com)
 
 
 # 💻 Tech Stack:
