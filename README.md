@@ -1,7 +1,11 @@
 <h1 align="center">Profile: Mateo A. Campagna</h1>
 
-# Key Interest
-* Machine Learning / Deep Learning<br> *DSA / Competitive programming<br> * Graphics Simulation<br> * Theoretical computer science
+# Key Interests
+* Machine Learning / Deep Learning  
+* Data Structures & Algorithms / Competitive Programming  
+* Graphics Simulation  
+* Theoretical Computer Science
+
 
 
 ## 🌐 Socials:
