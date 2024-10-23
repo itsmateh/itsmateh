@@ -1,6 +1,6 @@
 <h1 align="center"> 👤 Mateo A. Campagna</h1>
 
-# ⭕ Key Interests
+# 🔷 Key Interests
  🔹Machine Learning / Deep Learning  
  🔹Data Structures & Algorithms / Competitive Programming  
  🔹Graphics Simulation  
