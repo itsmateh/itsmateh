@@ -1,6 +1,6 @@
 <h1 align="center"> 👤 Mateo Campagna</h1>
 
- 🔹Machine Learning / Deep Learning  |🔹Competitive Programming  |🔹Computer Graphics |🔹Theoretical Computer Science
+ 🔹Machine Learning / Deep Learning  |🔹Competitive Programming |🔹Theoretical Computer Science
 
 
 ## 🌐 Contact with me:
