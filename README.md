@@ -4,19 +4,6 @@
   <img height="150" src="https://i.pinimg.com/736x/7e/27/65/7e2765aed9dd7817f7c7486f8d772abe.jpg" />
 </div>
 
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-
-###
-
 <h1 align="center" style="margin-bottom: 5px;">Mateo A. Campagna</h1>
 <h4 align="center" style="margin-top: 0px;"><em>Computer Scientist at @ UNLP / Data Scientist / Competitive Programmer</em></h4>
 
