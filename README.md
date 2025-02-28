@@ -10,7 +10,7 @@
 
 ###
 
-<a href="https://github.com/itsmateh/Competitive-Programming"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmateh&repo=Competitive-Programming&theme=react&bg_color=0e1e38&title_color=f51915&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/itsmateh/Competitive-Programming(https://github.com/itsmateh/Competitive-Programming)"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmateh&repo=Competitive-Programming&theme=react&bg_color=0e1e38&title_color=f51915&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 
 
 ###
