@@ -10,23 +10,9 @@
 
 ###
 
-<a href="https://github.com/itsmateh/Competitive-Programming(https://github.com/itsmateh/Competitive-Programming)"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmateh&repo=Competitive-Programming&theme=react&bg_color=0e1e38&title_color=f51915&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<summary><h2>🌹Algorithms & Development</h2></summary>
+<a href="https://github.com/itsmateh/Competitive-Programming"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmateh&repo=Competitive-Programming&theme=react&bg_color=0e1e38&title_color=efca26&hide_border=false&icon_color=F85D7F&show_icons=true" alt="readme-typing-svg"></a>
 
-
-###
-
-<h3 align="left">🛠 Language and Tools </h3>
-
-###
-
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg", height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-   height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" />
-</div>
+<summary><h2>📚Facultad</h2></summary>
+<a href="https://github.com/itsmateh/AyED"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmateh&repo=AyED&theme=react&bg_color=0e1e38&title_color=efca26&hide_border=false&icon_color=F85D7F&show_icons=true" alt="readme-typing-svg"></a>
 
