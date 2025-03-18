@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center" style="margin-bottom: 5px;">Mateo A. Campagna</h1>
-<h4 align="center" style="margin-top: 0px;"><em>Computer Scientist at @ UNLP / Interest in Machine Learning, DSA, System Programming </em></h4>
+<h4 align="center" style="margin-top: 0px;"><em>Computer Scientist at @ UNLP / Interest in Machine Learning, CP/DSA, System Programming </em></h4>
 
 
 ###
