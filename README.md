@@ -10,7 +10,6 @@
 
 ###
 
-<summary><h2>🌹Algorithms & Development</h2></summary>
 <a href="https://github.com/itsmateh/Competitive-Programming"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmateh&repo=Competitive-Programming&theme=react&bg_color=0e1e38&title_color=efca26&hide_border=false&icon_color=F85D7F&show_icons=true" alt="readme-typing-svg"></a>
 
 
