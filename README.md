@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center" style="margin-bottom: 5px;">Mateo A. Campagna</h1>
-<h4 align="center" style="margin-top: 0px;"><em>Competitive programming - ML/DL - Mathematical optimization </em></h4>
+<h4 align="center" style="margin-top: 0px;"><em>Competitive programming - Machine learning </em></h4>
 
 
 
