@@ -10,3 +10,7 @@
 <p align="center">i'm an argentine cs student exploring system programming, low-level topics, and competitive programming.</p>
 
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpluspluslogo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rustlogo"  />
+</div>
