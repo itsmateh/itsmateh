@@ -1,13 +1,12 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/39/97/eb/3997eb06057902de14a542b15ffc37e4.jpg" />
-  <img height="150" src="https://i.pinimg.com/736x/04/3a/b2/043ab2bd409646cbdb0c4c0241de2102.jpg" />
-  <img height="150" src="https://i.pinimg.com/736x/7e/27/65/7e2765aed9dd7817f7c7486f8d772abe.jpg" />
-</div>
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="https://i.pinimg.com/736x/bb/11/cb/bb11cb84e876230f0fef506dad5596e5.jpg" alt="Banner" width="50%">
+  </a>
+</p>
 
-<h1 align="center" style="margin-bottom: 5px;">Mateo A. Campagna</h1>
-<h4 align="center" style="margin-top: 0px;"><em>competitive programming and ml</em></h4>
+<h1 align="center">hi, i'm mateo</a>!</h1>
+<h3 align="center">welcome to my profile</h3>
 
-
-
+<p align="center">i'm an argentine cs student exploring system programming, low-level topics, and competitive programming.</p>
 
 
