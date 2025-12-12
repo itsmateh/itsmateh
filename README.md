@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center" style="margin-bottom: 5px;">Mateo A. Campagna</h1>
-<h4 align="center" style="margin-top: 0px;"><em>Current focus: Competitive Programming & Machine Learning</em></h4>
+<h4 align="center" style="margin-top: 0px;"><em>competitive programming and ml</em></h4>
 
 
 
