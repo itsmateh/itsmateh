@@ -7,7 +7,7 @@
 <h1 align="center">hi, i'm mateo</a>!</h1>
 <h3 align="center">welcome to my profile</h3>
 
-<p align="center">i'm an argentine cs student exploring system programming, low-level topics, and competitive programming.</p>
+<p align="center">i'm an argentine cs student exploring system programming, low-level topics, machine learning and competitive programming.</p>
 
 
 <div align="center">
