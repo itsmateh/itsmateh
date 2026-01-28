@@ -18,10 +18,10 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="52" height="52" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=rust"
-  width="52" height="52" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=rust" width="52" height="52" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="52" height="52" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" height="52" alt="TS"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" height="52" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52" height="52" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="52" height="52" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="52" height="52" alt="Linux"  />
 </div>
