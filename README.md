@@ -30,7 +30,7 @@
 
 **projects**
 
-* [chip8-vm](https://github.com/mateocampagna/chip8-vm) — CHIP-8 emulator in C · full opcode set, display & input
+* [chip8-vm](https://github.com/mateocampagna/chip8-vm) — CHIP-8 emulator in Rust · full opcode set, display & input
 * [rust-retro-chat](https://github.com/mateocampagna/rust-retro-chat) — async chat server in Rust · Axum · Tokio · WebSockets · JWT
 
 ---
