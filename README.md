@@ -22,21 +22,22 @@
 
 ---
 
-**currently** — implementing memory allocators in C (malloc, realloc, free from scratch) · building a numerical methods library in C++
+**currently** 
+*  implementing memory allocators in C (malloc, realloc, free from scratch) 
+* building a numerical methods library in C++
 
 ---
 
 **projects**
 
-[chip8-vm](https://github.com/mateocampagna/chip8-vm) — CHIP-8 emulator in Rust · full opcode set, display & input
-
-[rust-retro-chat](https://github.com/mateocampagna/rust-retro-chat) — async chat server in Rust · Axum · Tokio · WebSockets · JWT
+* [chip8-vm](https://github.com/mateocampagna/chip8-vm) — CHIP-8 emulator in C · full opcode set, display & input
+* [rust-retro-chat](https://github.com/mateocampagna/rust-retro-chat) — async chat server in Rust · Axum · Tokio · WebSockets · JWT
 
 ---
 
 **competitive programming**
 
-ICPC Regional Finalist — 2024 · 2025
+* ICPC South America South Finals — 2024 · 2025
 
 ---
 
