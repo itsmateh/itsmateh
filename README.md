@@ -1,27 +1,45 @@
-<h1 align="center">mateo here!</a></h1>
+<h1 align="center">mateo campagna</h1>
 
 <p align="center">
-  <a href="">
-    <!-- <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Rust/Frieren_Holding_The_Rust_Programming_Language.png?raw=true" width="70%"> -->
-    <!-- <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Rust/Kotoko_Iwanaga_The_Rust_Programming_Language.png?raw=true" width="70%"> -->
-    <!-- <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Rust/Minagi_Koharu_Reading_Rust_Programming_Language.png?raw=true" width="70%"> -->
-    <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Rust/Tsukishima_Shijima_The_Rust_programming_language.png?raw=true" width="50%">
-     
-    
-  </a>
+  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Rust/Tsukishima_Shijima_The_Rust_programming_language.png?raw=true" width="45%">
 </p>
 
-<h3 align="center">welcome to my profile</h3>
+<p align="center">
+  systems programmer · competitive programmer · cs student @ unlp
+</p>
 
-<p align="center">i'm an argentine cs student exploring system programming, low-level topics, machine learning and competitive programming.</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
+</p>
 
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="52" height="52" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=rust" width="52" height="52" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="52" height="52" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" height="52" alt="TS"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" height="52" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="52" height="52" alt="Linux"  />
-</div>
+**currently** — implementing memory allocators in C (malloc, realloc, free from scratch) · building a numerical methods library in C++
+
+---
+
+**projects**
+
+[chip8-vm](https://github.com/mateocampagna/chip8-vm) — CHIP-8 emulator in C · full opcode set, display & input
+
+[rust-retro-chat](https://github.com/mateocampagna/rust-retro-chat) — async chat server in Rust · Axum · Tokio · WebSockets · JWT
+
+---
+
+**competitive programming**
+
+ICPC Regional Finalist — 2024 · 2025
+
+---
+
+**contact**
+
+[linkedin](https://www.linkedin.com/in/mateocampagna/) · [matecamp4@gmail.com](mailto:matecamp4@gmail.com)
