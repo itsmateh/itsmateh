@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/tgQX7C8F/trinity.png" width="%">
+  <img src="https://i.imgur.com/XpNqK5g.png" width="%">
 </p>
 
 
